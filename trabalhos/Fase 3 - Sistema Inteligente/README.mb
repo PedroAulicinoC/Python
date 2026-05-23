@@ -1,10 +1,10 @@
-## Gestão Autônoma de Energia da Aurora Siger
+### Gestão Autônoma de Energia da Aurora Siger ###
 
 Este projeto simula a gestão de energia da base Aurora Siger em Marte.
 Devido à distância da Terra, a base precisa tomar decisões de forma autônoma, analisando geração,
 consumo e reserva de energia, além de prever valores futuros.
 
-### Como funciona
+# Como funciona
 
 - Os dados da colônia são armazenados em um dicionário Python, chamado de `colonia`.
 
@@ -16,9 +16,9 @@ prever a geração futura de energia (solar e eólica).
 
 - O programa imprime a situação atual da colônia e o estado dos sistemas.
 
-## Exemplo de execução
+## Exemplo de execução ##
 
-### Dados de entrada:
+# Dados de entrada:
 
 colonia["energia"]["solar"]["geracao"] = 40
 colonia["energia"]["eolica"]["geracao"] = 30
@@ -26,7 +26,7 @@ colonia["energia"]["consumo"] = 70
 colonia["energia"]["reserva"] = 20
 colonia["clima"]["vento"] = 11
 
-### Saída esperada:
+# Saída esperada:
 
 Energia atual: 70
 Consumo atual: 70
