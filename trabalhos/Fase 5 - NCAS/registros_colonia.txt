@@ -1,0 +1,2 @@
+2026-09-06 16:15:23.182278 | Módulo: Logística e Médico | Prioridade: 2 | Mensagem: Módulo Logística e Médico em estado crítico (status=Em manutenção, prioridade=2).
+2026-09-06 16:15:23.182742 | Módulo: Comunicação e Controle | Prioridade: 3 | Mensagem: Módulo Comunicação e Controle em estado crítico (status=Em alerta, prioridade=3).

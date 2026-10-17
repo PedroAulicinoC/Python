@@ -1,0 +1,17 @@
+[
+    {
+        "data": "2026-09-06 16:15:31.539974",
+        "pergunta": "Módulo Produção de Água e Oxigênio em alerta por consumo elevado.",
+        "resposta": "Prioridade: Alta"
+    },
+    {
+        "data": "2026-09-06 16:15:32.422258",
+        "pergunta": "Módulo Logística e Médico em manutenção por falha no sistema de suprimentos.",
+        "resposta": "Revisar estoque e acionar suprimentos emergenciais."
+    },
+    {
+        "data": "2026-09-06 16:15:33.807484",
+        "pergunta": "Módulo Comunicação e Controle em alerta por falha intermitente no sistema de transmissão.",
+        "resposta": "{\n    \"modulo\": \"Comunicação e Controle\",\n    \"status\": \"Em alerta\",\n    \"causa\": \"Módulo Comunicação e Controle em alerta por falha intermitente no sistema de transmissão.\",\n    \"acao_sugerida\": \"Verificar sistema e aplicar manutenção preventiva.\",\n    \"prioridade\": 2,\n    \"data\": \"2026-09-06 16:15:33.807030\"\n}"
+    }
+]
