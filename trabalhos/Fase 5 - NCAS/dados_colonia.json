@@ -1,0 +1,62 @@
+{
+    "Habitação": {
+        "prioridade": 1,
+        "consumo_energia": 60,
+        "capacidade_armazenamento": 200,
+        "status": "Ativo"
+    },
+    "Energia": {
+        "prioridade": 2,
+        "consumo_energia": 90,
+        "capacidade_armazenamento": 500,
+        "status": "Ativo"
+    },
+    "Laboratório Científico": {
+        "prioridade": 4,
+        "consumo_energia": 50,
+        "capacidade_armazenamento": 150,
+        "status": "Ativo"
+    },
+    "Logística e Médico": {
+        "prioridade": 2,
+        "consumo_energia": 70,
+        "capacidade_armazenamento": 250,
+        "status": "Em manutenção"
+    },
+    "Agricultura": {
+        "prioridade": 3,
+        "consumo_energia": 80,
+        "capacidade_armazenamento": 300,
+        "status": "Ativo"
+    },
+    "Reciclagem e Reuso": {
+        "prioridade": 3,
+        "consumo_energia": 40,
+        "capacidade_armazenamento": 180,
+        "status": "Ativo"
+    },
+    "Produção de Água e Oxigênio": {
+        "prioridade": 1,
+        "consumo_energia": 100,
+        "capacidade_armazenamento": 400,
+        "status": "Ativo"
+    },
+    "Comunicação e Controle": {
+        "prioridade": 3,
+        "consumo_energia": 30,
+        "capacidade_armazenamento": 100,
+        "status": "Em alerta"
+    },
+    "Transporte e Mobilidade": {
+        "prioridade": 5,
+        "consumo_energia": 70,
+        "capacidade_armazenamento": 220,
+        "status": "Ativo"
+    },
+    "Armazenamento e Manutenção": {
+        "prioridade": 4,
+        "consumo_energia": 60,
+        "capacidade_armazenamento": 600,
+        "status": "Em manutenção"
+    }
+}
